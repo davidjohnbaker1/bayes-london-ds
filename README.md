@@ -27,7 +27,6 @@ By the end of the lesson, students should be able to...
 
 ## Extend Your Learning
 
-* To see the guy whose materials explain this check out his video on [Bayes without Counting]()  
-* Materials for this lecture are mostly derived from [this fantastic textbook]() by [Richard McElreath]. If you are interested in this, please sooth yourself with more than 20 hours of free lectures on YouTube of him talking about this.
-* This book by John Krutsche also is great (but a slow burn)
-* For those wanting to dive deeper on the whole philosophy of science that lurks in the background of all of this, check out [this book] or for you academic nerds [this one].
+* To see the guy whose materials explain this check out his video on [Bayes is just counting](https://www.youtube.com/watch?v=_NEMHM1wDfI&t=2s)  
+* Materials for this lecture are mostly derived from [this fantastic textbook](https://xcelab.net/rm/statistical-rethinking/). If you are interested in this, please sooth yourself with more than [20 hours of free lectures on YouTube of him talking about this](https://github.com/rmcelreath/statrethinking_winter2019).
+* This book by John Krutsche also is great (but a slow burn) [Book](https://www.amazon.co.uk/Doing-Bayesian-Data-Analysis-Tutorial/dp/0123814855)
